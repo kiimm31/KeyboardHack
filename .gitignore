@@ -3,3 +3,6 @@
 ################################################################################
 
 /Keyboardhack/KeyboardHackerMan/bin/Debug/netcoreapp3.1
+/.vs
+/Keyboardhack/.vs/Keyboardhack
+/Keyboardhack/KeyboardHackerMan/obj
