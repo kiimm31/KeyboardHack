@@ -1,0 +1,16 @@
+﻿<Window x:Class="KeyboardHackUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KeyboardHackUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Name="Main">
+    <Grid>
+        <StackPanel>
+            <Button Click="StartButton_OnClick" Name="StartButton" IsEnabled="True">Start Recording</Button>
+            <Button Click="StopButton_OnClick" Name="StopButton" IsEnabled="False">Stop Recording</Button>
+            <Button Click="Activate_OnClick" Name="Activate" IsEnabled="False">Start Repeater</Button>
+        </StackPanel>
+    </Grid>
+</Window>

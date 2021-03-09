@@ -1,8 +1,7 @@
 ﻿using GregsStack.InputSimulatorStandard;
 using GregsStack.InputSimulatorStandard.Native;
-using System;
 
-namespace KeyboardHackerMan
+namespace KeyboardHackerMan.Services
 {
     public class KeyboardService : IKeyboardService
     {
@@ -13,7 +12,7 @@ namespace KeyboardHackerMan
             _simulator = simulator;
         }
 
-        public void Press(VirtualKeyCode command, int duration)
+        public void Press(VirtualKeyCode command, int duration = 100)
         {
             _simulator.Keyboard.KeyDown(command).Sleep(duration).KeyUp(command);
         }

@@ -6,3 +6,5 @@
 /.vs
 /Keyboardhack/.vs/Keyboardhack
 /Keyboardhack/KeyboardHackerMan/obj
+/Keyboardhack/KeyboardHackUI/bin/Debug
+/Keyboardhack/KeyboardHackUI/obj/Debug
