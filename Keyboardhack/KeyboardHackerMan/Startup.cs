@@ -15,7 +15,7 @@ namespace KeyboardHackerMan
         {
             services.AddSingleton<IInputSimulator, InputSimulator>();
             services.AddSingleton<IKeyboardService, KeyboardService>();
-
+            services.AddSingleton<RepeaterSettings>();
             services.AddHostedService<KeyboardOrchestratorBackgroundService>();
         }
 
