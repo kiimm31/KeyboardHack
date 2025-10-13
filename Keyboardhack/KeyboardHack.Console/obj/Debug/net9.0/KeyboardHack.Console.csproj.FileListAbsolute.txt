@@ -1,0 +1,15 @@
+C:\Users\kim31\Code\KeyboardHack\KeyboardHack\Keyboardhack\KeyboardHack.Console\bin\Debug\net9.0\KeyboardHack.Console.exe
+C:\Users\kim31\Code\KeyboardHack\KeyboardHack\Keyboardhack\KeyboardHack.Console\bin\Debug\net9.0\KeyboardHack.Console.deps.json
+C:\Users\kim31\Code\KeyboardHack\KeyboardHack\Keyboardhack\KeyboardHack.Console\bin\Debug\net9.0\KeyboardHack.Console.runtimeconfig.json
+C:\Users\kim31\Code\KeyboardHack\KeyboardHack\Keyboardhack\KeyboardHack.Console\bin\Debug\net9.0\KeyboardHack.Console.dll
+C:\Users\kim31\Code\KeyboardHack\KeyboardHack\Keyboardhack\KeyboardHack.Console\bin\Debug\net9.0\KeyboardHack.Console.pdb
+C:\Users\kim31\Code\KeyboardHack\KeyboardHack\Keyboardhack\KeyboardHack.Console\obj\Debug\net9.0\KeyboardHack.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kim31\Code\KeyboardHack\KeyboardHack\Keyboardhack\KeyboardHack.Console\obj\Debug\net9.0\KeyboardHack.Console.AssemblyInfoInputs.cache
+C:\Users\kim31\Code\KeyboardHack\KeyboardHack\Keyboardhack\KeyboardHack.Console\obj\Debug\net9.0\KeyboardHack.Console.AssemblyInfo.cs
+C:\Users\kim31\Code\KeyboardHack\KeyboardHack\Keyboardhack\KeyboardHack.Console\obj\Debug\net9.0\KeyboardHack.Console.csproj.CoreCompileInputs.cache
+C:\Users\kim31\Code\KeyboardHack\KeyboardHack\Keyboardhack\KeyboardHack.Console\obj\Debug\net9.0\KeyboardHack.Console.sourcelink.json
+C:\Users\kim31\Code\KeyboardHack\KeyboardHack\Keyboardhack\KeyboardHack.Console\obj\Debug\net9.0\KeyboardHack.Console.dll
+C:\Users\kim31\Code\KeyboardHack\KeyboardHack\Keyboardhack\KeyboardHack.Console\obj\Debug\net9.0\refint\KeyboardHack.Console.dll
+C:\Users\kim31\Code\KeyboardHack\KeyboardHack\Keyboardhack\KeyboardHack.Console\obj\Debug\net9.0\KeyboardHack.Console.pdb
+C:\Users\kim31\Code\KeyboardHack\KeyboardHack\Keyboardhack\KeyboardHack.Console\obj\Debug\net9.0\KeyboardHack.Console.genruntimeconfig.cache
+C:\Users\kim31\Code\KeyboardHack\KeyboardHack\Keyboardhack\KeyboardHack.Console\obj\Debug\net9.0\ref\KeyboardHack.Console.dll
